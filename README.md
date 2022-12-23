@@ -54,6 +54,12 @@
 - 최신 기술 환경에서의 네트워크 위협 탐지
     - KISIA AI보안 기술개발 교육과정 프로젝트 - cycle gan을 통해 비정상 데이터가 부족한 환경에서 정상 데이터를 이용한 비정상 데이터 생성, 위협 탐지 모델 생성
 
+## Certificate
+- 네트워크관리사 2급
+- 산업보안관리사
+### Studying..
+- 정보처리기사
+- 정보보안기사
 <br><br>
 
 ![GPlogger's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPlogger&show_icons=true&)[![GPlogger's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GPlogger&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&)](https://github.com/GPlogger)
