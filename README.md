@@ -5,7 +5,7 @@
 # 👋Introduce
 
 안녕하세요. 보안과 개발 등 여러 분야에 관심이 많은 GPlogger입니다.
-
+2023년 주전공 산업보안학과와 복수전공 컴퓨터공학과 졸업 예정입니다.
   
 ## 🌟Tech Stack🌟
 
@@ -46,13 +46,21 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
 
-## Projects
-- 기능형 수강신청 웹 제작 프로젝트
-    - 기존 수강신청 시스템에 대기열 기능, 반응형 UI 등 사용자의 편의성을 높이는 데 초점을 둔 수강신청 페이지 제작
-- 여행도 제주껏
-    - 제주도 여행 일정을 짤 때 평균 관람시간, 도착 예상시간 등 도움을 주는 기능을 제공하는 웹사이트
+## Experience
 - 최신 기술 환경에서의 네트워크 위협 탐지
-    - KISIA AI보안 기술개발 교육과정 프로젝트 - cycle gan을 통해 비정상 데이터가 부족한 환경에서 정상 데이터를 이용한 비정상 데이터 생성, 위협 탐지 모델 생성
+    - 2022.08.30 ~ 2022.10.21
+    - KISIA AI보안 기술개발 교육과정 프로젝트
+    - cycle gan을 통해 비정상 데이터가 부족한 환경에서 정상 데이터를 이용한 비정상 데이터 생성하고 위협 탐지 모델 생성하는 아이디어 기획안을 제출했습니다.
+- 기능형 수강신청 웹 제작 프로젝트
+    - 2022.09.08 ~ 2022.12.08
+    - 기존의 수강신청 시스템에 대기열 시스템과 반응형 UI등 사용자의 편의성을 높이는 기능을 추가
+    - Springboot, Mysql을 사용해 Back-End 구현에 참여했습니다.
+    - https://github.com/Joonhyung-Choi/course-registration-web
+- 여행도 제주껏
+    - 2022.11.18 ~ 2022.12.20
+    - 제주도 여행지의 평균 관람시간, 목적지 간 도착 예상시간 등 일정 계획 시 도움을 주는 기능을 제공하는 웹사이트
+    - React를 사용한 개인 프로젝트입니다.
+    - https://github.com/GPlogger/Travel_Jejuly
 
 ## Certificate
 - 네트워크관리사 2급
