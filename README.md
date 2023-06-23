@@ -65,8 +65,8 @@
 ## Certificate
 - 네트워크관리사 2급
 - 산업보안관리사
-### Studying..
 - 정보처리기사
+### Studying..
 - 정보보안기사
 <br><br>
 
